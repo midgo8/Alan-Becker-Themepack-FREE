@@ -16,7 +16,7 @@ Get it here! Free and easy!
 6. Go to find the icons file that you downloaded (Extract the zip folder first!)
 7. Find the name of the icon that you wanted to change, click it, and done!
 8. Repeat steps 5-7 with other icons. (that shown on the window)
-For more precise tutorial:
+  For more precise tutorial:
 [![Tutorial!](https://img.youtube.com/vi/d38ylLUu4Eg/0.jpg)](https://www.youtube.com/watch?v=d38ylLUu4Eg)
 
 
