@@ -6,7 +6,7 @@ This is a theme for all the Alan Becker's Fans!
 You want a perfect Alan's Ava themepack?
 Get it here! Free and easy!
 (sorry but icons must change it manually)
-If you need the newest background for all time in Archived Version, just download the pack above: Backgrounds.zip
+If you need the newest background for all time in Archived Version, just download the pack above: Background.zip (There have two editions!)
 
 # TUTORIAL
 1. Go to install the two files from releases. (exp: Alan.becker.themepack.Ava.Edition.V1.0.deskthemepack and Icons.zip)
