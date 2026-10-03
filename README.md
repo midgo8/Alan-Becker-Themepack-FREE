@@ -26,3 +26,9 @@ For more precise tutorial:
 
 # CONSIDERING KNOWING ME?
 Want to know me? Here's my YT channel: https://www.youtube.com/@midgo-jie
+
+# DISCLAIMER
+This is not made by Alan Becker's team and it's not official!
+
+# OTHERS
+Want to report a bug? Join my discord server! https://discord.gg/DrSSycursb
